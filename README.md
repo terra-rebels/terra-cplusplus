@@ -35,7 +35,8 @@ TerraSharp is a C# SDK for writing applications that interact with the Terra blo
 
 ## Features
 
-- **Written in C#**, with type definitions
+- **Written in C++**, with type definitions
+- Works for UnrealEngine
 - Versatile support for [key management](https://docs.terra.money/develop/terra-js/keys) solutions
 - Works with Xamarin, MAUI, in the browser, and Mobile
 - Exposes the Terra API through [`LCDClient`](https://docs.terra.money/docs/develop/sdks/terra-js/query-data.html)
