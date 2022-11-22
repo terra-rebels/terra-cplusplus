@@ -1,10 +1,10 @@
 
 <p align="center">
-    <a href="https://www.terrarebels.net/"><img src="CIcon.png" align="center" width=150/></a>
+    <a href="https://www.terrarebels.net/"><img src="C++.png" align="center" width=150/></a>
 </p>
 
 <p align="center">
-The Official C++ SDK for the Terra Ecosystem (LUNC/USTC/LUNA2)
+The Official C++ SDK for the Terra Ecosystem and for the UnrealEngine (LUNC/USTC/LUNA2)
 </p>
 <br/>
 
@@ -35,7 +35,8 @@ TerraSharp is a C# SDK for writing applications that interact with the Terra blo
 
 ## Features
 
-- **Written in C#**, with type definitions
+- **Written in C++**, with type definitions
+- Works for UnrealEngine
 - Versatile support for [key management](https://docs.terra.money/develop/terra-js/keys) solutions
 - Works with Xamarin, MAUI, in the browser, and Mobile
 - Exposes the Terra API through [`LCDClient`](https://docs.terra.money/docs/develop/sdks/terra-js/query-data.html)
