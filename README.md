@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-The Official C++ SDK for the Terra Ecosystem and for the UnrealEngine (LUNC/USTC/LUNA2)
+The Official C++ SDK for the Terra Ecosystem and for unreal engine (LUNC/USTC/LUNA2)
 </p>
 <br/>
 
