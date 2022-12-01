@@ -31,16 +31,15 @@ The Official C++ SDK for the Terra Ecosystem and for the UnrealEngine (LUNC/USTC
   <a href="https://github.com/terra-rebels/Terra-Sharp">GitHub</a>
 </p>
 
-TerraSharp is a C# SDK for writing applications that interact with the Terra blockchain from either the Web or Mobile, or .net environments and provides simple abstractions over core data structures, serialization, key management, and API request generation.
+TerraC++ is a C++ SDK for writing applications that interact with the Terra blockchain from either the Web or Mobile, or .net environments and provides simple abstractions over core data structures, serialization, key management, and API request generation.
 
 ## Features
 
 - **Written in C++**, with type definitions
 - Works for UnrealEngine
 - Versatile support for [key management](https://docs.terra.money/develop/terra-js/keys) solutions
-- Works with Xamarin, MAUI, in the browser, and Mobile
 - Exposes the Terra API through [`LCDClient`](https://docs.terra.money/docs/develop/sdks/terra-js/query-data.html)
-- Parses responses into native C# types
+- Parses responses into native C++ types
 
 ## License
 
